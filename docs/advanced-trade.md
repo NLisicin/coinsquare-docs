@@ -8,7 +8,7 @@ nav_order: 14
 
 These instructions will guide you through the process of setting up an advanced trade in Coinsquare. Advanced trades allow you to place a buy or sell order that will automatically execute when a currency reaches a chosen price threshold. This way, you can plan in advance the trades that you want to make without worrying about missing your chance if there are sudden market changes.
 
-<img src="https://cdn0.iconfinder.com/data/icons/zondicons/20/exclamation-outline-512.png" width="24px">Note: Funds added to an advanced trade will be put on hold and cannot be used for other transactions until the order is fulfilled or cancelled.
+<img src="https://cdn0.iconfinder.com/data/icons/zondicons/20/exclamation-outline-512.png" alt="Info Icon" width="24px"> Note: Funds added to an advanced trade will be put on hold and cannot be used for other transactions until the order is fulfilled or cancelled.
 
 ![Instruction Legend](https://i.imgur.com/hXxn40V.png?raw=true)
 
@@ -18,7 +18,7 @@ These instructions will guide you through the process of setting up an advanced 
 
     The Price Chart, Depth Chart, Order Book, and History will update to display your selected currencies. Use these to analyze recent market changes and inform your trading.
     
-    <img src="https://cdn0.iconfinder.com/data/icons/zondicons/20/exclamation-outline-512.png" width="24px"> Note: Advanced trades must include Bitcoin as one of the currencies. To trade between two non-Bitcoin currencies, trade from the first currency to Bitcoin then trade from Bitcoin to the second currency.
+    <img src="https://cdn0.iconfinder.com/data/icons/zondicons/20/exclamation-outline-512.png" alt="Info Icon" width="24px"> Note: Advanced trades must include Bitcoin as one of the currencies. To trade between two non-Bitcoin currencies, trade from the first currency to Bitcoin then trade from Bitcoin to the second currency.
 
 3. Click **Buy BTC** or **Sell BTC** to trade to or from Bitcoin, respectively.
 
@@ -36,6 +36,6 @@ These instructions will guide you through the process of setting up an advanced 
 
 7. Click **Buy**.
 
-![Step 7](https://i.imgur.com/E7yAFCE.png?raw=true)
+<img src="https://i.imgur.com/E7yAFCE.png" alt="Step 7" width="250px">
 
 Your advanced trade has now been successfully placed. It will appear in the list of **Open Orders** where it can be reviewed or cancelled. When your selected currency reaches the limit price, the trade will automatically execute.
