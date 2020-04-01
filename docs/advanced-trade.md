@@ -10,6 +10,8 @@ Advanced trades allow you to place a buy or sell order that will automatically e
 
 <img src="https://cdn0.iconfinder.com/data/icons/zondicons/20/exclamation-outline-512.png" width="24px"> Note: Advanced trades must include Bitcoin as one of the currencies. To trade between two non-Bitcoin currencies, trade from the first currency to Bitcoin then trade from Bitcoin to the second currency.
 
+![Instruction Legend](https://i.imgur.com/hXxn40V.png?raw=true)
+
 1. Click **Advanced Trade** in the top menu bar.
 
 2. Click **Select Pair** to choose the currencies you want to trade.
