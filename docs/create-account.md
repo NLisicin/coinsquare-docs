@@ -45,19 +45,27 @@ If your username is already taken, try again with another.
 
 3. Verify your account.
 
-    a) In the account dropdown menu in the top right of the screen, click **Verification**.
+<img src="https://i.imgur.com/T2WLy0X.png" alt="Verification"  width="500px">
 
-    b) Click **Get Started**.
+   a) In the account dropdown menu in the top right of the screen, click **Verification**.
 
-    c) Enter your mobile number and click **Text Me**.
-    A verification code will be sent to the number you entered.
+![Get Started](https://i.imgur.com/wNaYoJy.png?raw=true)
 
-    d) Enter your verification code in the text box at the bottom of the screen then click **Save & Continue**.
+   b) Click **Get Started**.
 
-    e) Enter your personal information in the **All About You** page then click **Save & Continue**. Ensure that all required fields, marked with a red asterisk (*), are filled.
+![Mobile Verification](https://i.imgur.com/rbWTSWh.png?raw=true)
 
-    f) Upload images of your government-issued photo ID and proof of address then click **Close**.
+   c) Enter your mobile number and click **Text Me**.
+   A verification code will be sent to the number you entered.
+
+   d) Enter your verification code in the text box at the bottom of the screen then click **Save & Continue**.
+
+   e) Enter your personal information in the **All About You** page then click **Save & Continue**. Ensure that all required fields, marked with a red asterisk (*), are filled.
+
+   f) Upload images of your government-issued photo ID and proof of address then click **Close**.
 
 At this point, you have successfully set up your account and it will be pending verification.
 
 Coinsquare will take up to one business day to verify your credentials, after which a blue **VERIFIED** panel will appear next to your username in the top menu bar. You can now begin trading cryptocurrency.
+
+<img src="https://i.imgur.com/KfsefLE.png" alt="Verified">
