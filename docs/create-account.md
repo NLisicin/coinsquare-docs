@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Create and Verify an Account
-nav_order: 11
+nav_order: 12
 ---
 
 # Create and Verify Your Account
