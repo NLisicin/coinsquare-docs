@@ -68,4 +68,4 @@ At this point, you have successfully set up your account and it will be pending 
 
 Coinsquare will take up to one business day to verify your credentials, after which a blue **VERIFIED** panel will appear next to your username in the top menu bar. You can now begin trading cryptocurrency.
 
-<img src="https://i.imgur.com/KfsefLE.png" alt="Verified">
+![Verified](https://i.imgur.com/KfsefLE.png?raw=true)
