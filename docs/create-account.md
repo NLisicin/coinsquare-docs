@@ -10,6 +10,8 @@ These instructions will guide you through the process of creating and verifying 
 
 Verifying your account is necessary to confirm your identity and prevent illegal trading.
 
+* * *
+
 ## Required Materials
 
 Photos or scans of the front and back of two documents to verify your identity.
