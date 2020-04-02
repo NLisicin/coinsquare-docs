@@ -47,24 +47,24 @@ If your username is already taken, try again with another.
 
 3. Verify your account.
 
-<img src="https://i.imgur.com/T2WLy0X.png" alt="Verification"  width="500px">
+    <img src="https://i.imgur.com/T2WLy0X.png" alt="Verification"  width="500px">
 
-   a) In the account dropdown menu in the top right of the screen, click **Verification**.
+    a) In the account dropdown menu in the top right of the screen, click **Verification**.
 
-![Get Started](https://i.imgur.com/wNaYoJy.png?raw=true)
+    ![Get Started](https://i.imgur.com/wNaYoJy.png?raw=true)
 
-   b) Click **Get Started**.
+    b) Click **Get Started**.
 
-![Mobile Verification](https://i.imgur.com/rbWTSWh.png?raw=true)
+    ![Mobile Verification](https://i.imgur.com/rbWTSWh.png?raw=true)
 
-   c) Enter your mobile number and click **Text Me**.
-   A verification code will be sent to the number you entered.
+    c) Enter your mobile number and click **Text Me**.
+    A verification code will be sent to the number you entered.
 
-   d) Enter your verification code in the text box at the bottom of the screen then click **Save & Continue**.
+    d) Enter your verification code in the text box at the bottom of the screen then click **Save & Continue**.
 
-   e) Enter your personal information in the **All About You** page then click **Save & Continue**. Ensure that all required fields, marked with a red asterisk (*), are filled.
+    e) Enter your personal information in the **All About You** page then click **Save & Continue**. Ensure that all required fields, marked with a red asterisk (*), are filled.
 
-   f) Upload images of your government-issued photo ID and proof of address then click **Close**.
+    f) Upload images of your government-issued photo ID and proof of address then click **Close**.
 
 At this point, you have successfully set up your account and it will be pending verification.
 
