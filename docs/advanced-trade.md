@@ -6,9 +6,15 @@ nav_order: 14
 
 # Set Up an Advanced Trade
 
-These instructions will guide you through the process of setting up an advanced trade in Coinsquare. Advanced trades allow you to place a buy or sell order that will automatically execute when a currency reaches a chosen price threshold. This way, you can plan in advance the trades that you want to make without worrying about missing your chance if there are sudden market changes.
+These instructions will guide you through the process of setting up an advanced trade in Coinsquare.
+
+Advanced trades allow you to place a buy or sell order that will automatically execute when a currency reaches a chosen price threshold. This way, you can plan in advance the trades that you want to make without worrying about missing your chance if there are sudden market changes.
+
+* * *
 
 <img src="https://cdn0.iconfinder.com/data/icons/zondicons/20/exclamation-outline-512.png" alt="Info Icon" width="24px"> Note: Funds added to an advanced trade will be put on hold and cannot be used for other transactions until the order is fulfilled or cancelled.
+
+* * *
 
 ![Instruction Legend](https://i.imgur.com/hXxn40V.png?raw=true)
 
