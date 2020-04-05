@@ -18,7 +18,7 @@ These instructions will guide you through the process of [creating and verifying
 ## Table of Contents
 {: .no_toc }
 
-<ol>
+1.
 {:toc}
 
 * * *
@@ -31,7 +31,9 @@ These instructions are designed for users who are familiar with and may have bou
 
 ## Conventions Used
 
-| Convention | Definition |
-|:-----------|:-----------|
-| **Bold Typeface** | Indicates a website element to refer to on your screen, such as a button or a field. |
-| <img src="https://cdn0.iconfinder.com/data/icons/zondicons/20/exclamation-outline-512.png" alt="Info Icon" width="24px"> Note: | Indicates important information for the given step or set of instructions. |
+| Convention | Indicates |
+|:-----------|:----------|
+| <img src="https://cdn0.iconfinder.com/data/icons/zondicons/20/exclamation-outline-512.png" alt="Info Icon" width="24px"> Note: | Important information for the current step or set of instructions. |
+| **Bold Typeface** | A website element to refer to on your screen, such as a button or a field. |
+| Red Boxes or Arrows on Images | Area of the screen to refer to on the current instruction. |
+| Red Text on Images | Area of the screen to refer to on the given step number. |
