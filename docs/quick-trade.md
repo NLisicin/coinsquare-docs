@@ -10,6 +10,11 @@ Coinsquare's Quick Trade functionality allows you to trade one currency for anot
 
 The following steps will show you how to make use of Quick Trading on Coinsquare.
 
+![Quick Trade's Location on the Dashboard](https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/QuickTrade1.PNG?raw=true)
+
+Everything you need to execute a Quick Trade can be found on the left side of the dashboard.
+
+
 * * *
 
 <img src="https://cdn0.iconfinder.com/data/icons/zondicons/20/exclamation-outline-512.png" alt="Info Icon" width="24px"> Note: You must have a verified account to make a trade.
@@ -17,10 +22,6 @@ The following steps will show you how to make use of Quick Trading on Coinsquare
 <img src="https://cdn0.iconfinder.com/data/icons/zondicons/20/exclamation-outline-512.png" alt="Info Icon" width="24px"> Note: You must have funds in your account to make a trade.
 
 * * *
-
-![Quick Trade's Location on the Dashboard](https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/QuickTrade1.PNG?raw=true)
-
-Everything you need to execute a Quick Trade can be found on the left side of the dashboard.
 
 ![Quick Trade Setup](https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/QuickTrade2.PNG?raw=true)
 
