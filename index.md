@@ -11,7 +11,7 @@ permalink: /
 
 Coinsquare is an online platform for buying and selling cryptocurrency. It allows users to track recent market changes, buy and sell a multitude of digital currencies, and plan future trades to execute automatically.
 
-These instructions will guide you through the process of [creating and verifying an account](create-account), [executing a quick trade](quick-trade), and [setting up an advanced trade](advanced-trade). They will take you through the technical steps, but are not intended to give advice or suggestions on how to manage your money.
+These instructions will guide you through the process of [creating and verifying an account](/docs/create-account), [executing a quick trade](/docs/quick-trade), and [setting up an advanced trade](/docs/advanced-trade). They will take you through the technical steps, but are not intended to give advice or suggestions on how to manage your money.
 
 * * *
 
