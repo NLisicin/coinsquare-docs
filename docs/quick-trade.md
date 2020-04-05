@@ -27,6 +27,7 @@ Everything you need to execute a Quick Trade can be found on the left side of th
 1. Select a currency to trade from the drop-down menu labelled **Trade**.
     
     This is the currency which you will be selling in exchange for another one.
+    
     <img src="https://cdn0.iconfinder.com/data/icons/zondicons/20/exclamation-outline-512.png" alt="Info Icon" width="24px"> Note: This drop-down menu will populate depending on the currencies you have in your account.
 
 2. Enter the amount you wish to trade.
@@ -46,7 +47,7 @@ Everything you need to execute a Quick Trade can be found on the left side of th
 
     The quote will show you how much of the desired currency you will receive as well as the price you are buying at.
 
-6. Click the blue **MAKE THIS TRADE** button to complete your order, or select **Make Another Trade** below if you no longer wish to complete this trade.
+6. Click the blue **MAKE THIS TRADE** button to complete your order.
 
    <img src="https://cdn0.iconfinder.com/data/icons/zondicons/20/exclamation-outline-512.png" alt="Info Icon" width="24px"> Note: Clicking **MAKE THIS TRADE** will finalize the trade and influence your account balance.
    
