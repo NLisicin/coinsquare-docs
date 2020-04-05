@@ -18,7 +18,7 @@ These instructions will guide you through the process of [creating and verifying
 ## Table of Contents
 {: .no_toc }
 
-1.
+1. TOC
 {:toc}
 
 * * *
