@@ -12,11 +12,11 @@ Advanced trades allow you to place a buy or sell order that will automatically e
 
 * * *
 
-<img src="../assets/images/note.png" alt="Info Icon" width="24px"> Note: Funds added to an advanced trade will be put on hold and cannot be used for other transactions until the order is fulfilled or cancelled.
+<img src="https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/note.png" alt="Info Icon" width="24px"> Note: Funds added to an advanced trade will be put on hold and cannot be used for other transactions until the order is fulfilled or cancelled.
 
 * * *
 
-![Instruction Legend](../assets/images/advanced.png?raw=true)
+![Instruction Legend](https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/advanced.png?raw=true)
 
 1. Click **Advanced Trade** in the top menu bar.
 
@@ -24,7 +24,7 @@ Advanced trades allow you to place a buy or sell order that will automatically e
 
     The Price Chart, Depth Chart, Order Book, and History will update to display your selected currencies. Use these to analyze recent market changes and inform your trading.
     
-    <img src="../assets/images/note.png" alt="Info Icon" width="24px"> Note: Advanced trades must include Bitcoin as one of the currencies. To trade between two non-Bitcoin currencies, trade from the first currency to Bitcoin then trade from Bitcoin to the second currency.
+    <img src="https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/note.png" alt="Info Icon" width="24px"> Note: Advanced trades must include Bitcoin as one of the currencies. To trade between two non-Bitcoin currencies, trade from the first currency to Bitcoin then trade from Bitcoin to the second currency.
 
 3. Click **Buy BTC** or **Sell BTC** to trade to or from Bitcoin, respectively.
 
@@ -42,7 +42,7 @@ Advanced trades allow you to place a buy or sell order that will automatically e
 
 7. Click **Buy**.
 
-    <img src="../assets/images/advanced7.png" alt="Step 7" width="250px">
+    <img src="https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/advanced7.png" alt="Step 7" width="250px">
 
 * * *
 
