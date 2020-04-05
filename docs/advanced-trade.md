@@ -44,4 +44,6 @@ Advanced trades allow you to place a buy or sell order that will automatically e
 
     <img src="../assets/images/advanced7.png" alt="Step 7" width="250px">
 
-Your advanced trade has now been successfully placed. It will appear in the list of **Open Orders** where it can be reviewed or cancelled. When your selected currency reaches the limit price, the trade will automatically execute.
+* * *
+
+Your advanced trade has now been successfully placed! It will appear in the list of **Open Orders** where it can be reviewed or cancelled. When your selected currency reaches the limit price, the trade will automatically execute.
