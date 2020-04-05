@@ -14,7 +14,7 @@ The following steps will show you how to make use of Quick Trading on Coinsquare
 
 <img src="https://cdn0.iconfinder.com/data/icons/zondicons/20/exclamation-outline-512.png" alt="Info Icon" width="24px"> Note: You must have a verified account to make a trade.
 
-<img src="https://cdn0.iconfinder.com/data/icons/zondicons/20/exclamation-outline-512.png" alt="Info Icon" width="24px"> Note: You must have funds in your account in order to make a trade.
+<img src="https://cdn0.iconfinder.com/data/icons/zondicons/20/exclamation-outline-512.png" alt="Info Icon" width="24px"> Note: You must have funds in your account to make a trade.
 
 * * *
 
