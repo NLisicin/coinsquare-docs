@@ -10,10 +10,8 @@ Coinsquare's Quick Trade functionality allows you to trade one currency for anot
 
 The following steps will show you how to make use of Quick Trading on Coinsquare.
 
-![Quick Trade's Location on the Dashboard](https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/QuickTrade1.PNG?raw=true)
-
 Everything you need to execute a Quick Trade can be found on the left side of the dashboard.
-
+![Quick Trade's Location on the Dashboard](https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/QuickTrade1.PNG?raw=true)
 
 * * *
 
