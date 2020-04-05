@@ -14,7 +14,7 @@ These instructions will guide you through the process of [creating and verifying
 
 * * *
 
-1. Table of Contents
+## Table of Contents
 {:toc}
 
 * * *
@@ -22,6 +22,8 @@ These instructions will guide you through the process of [creating and verifying
 ## Intended Skill Level
 
 These instructions are designed for users who are familiar with and may have bought cryptocurrency, but have never used an exchange before. Users should have an understanding of how the cryptocurrency market works. If you do not already own any currency, you should be prepared to purchase some after verifying your account.
+
+* * *
 
 ## Conventions Used
 
