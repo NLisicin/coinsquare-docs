@@ -47,8 +47,8 @@ Everything you need to execute a Quick Trade can be found on the left side of th
 
 6. Click the blue **MAKE THIS TRADE** button to complete your order, or select **MAKE ANOTHER TRADE** below if you no longer wish to complete this trade.
 
-   After clicking **MAKE THIS TRADE**, your new account holdings will be immediately reflected on the rest of your dashboard.
-
+   <img src="https://cdn0.iconfinder.com/data/icons/zondicons/20/exclamation-outline-512.png" alt="Info Icon" width="24px"> Note: Clicking **MAKE THIS TRADE** will finalize the trade and influence your account balance.
+   
 ***
 
-Congratulations! You have now traded cryptocurrency for the first time!
+Congratulations! You have now traded cryptocurrency for the first time! Your new account holdings will be immediately reflected on the rest of your dashboard.
