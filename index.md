@@ -7,6 +7,7 @@ permalink: /
 ---
 
 # Introduction
+{: .no_toc }
 
 Coinsquare is an online platform for buying and selling cryptocurrency. It allows users to track recent market changes, buy and sell a multitude of digital currencies, and plan future trades to execute automatically.
 
@@ -15,6 +16,9 @@ These instructions will guide you through the process of [creating and verifying
 * * *
 
 ## Table of Contents
+{: .no_toc }
+
+<ol>
 {:toc}
 
 * * *
