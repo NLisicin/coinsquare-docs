@@ -8,7 +8,7 @@ nav_order: 16
 
 ***
 
-## Problems with Quick Trading
+### Problems with Quick Trading
 
 If you are having problems with Quick Trade, it may be caused by one or more of the following issues. Here you will find information on how to solve each of these problems.
 
