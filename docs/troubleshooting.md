@@ -15,6 +15,8 @@ nav_order: 16
 1. TOC
 {:toc}
 
+* * *
+
 ## Problems with Trading
 
 If you are having problems with Quick or Advanced Trade, it may be caused by one or more of the following issues. Here you will find information on how to solve each of these problems.
@@ -32,7 +34,7 @@ You can learn how to cancel an Open Order [here.](https://help.coinsquare.com/hc
 
 ### Unverified Account
 
-You must have a verified account in order to trade. Identity verification is a legal requirement of trading platforms in Canada. A verified account will have a blue *VERIFIED** box in the top right corner of the dashboard next next to the username. 
+You must have a verified account in order to trade. Identity verification is a legal requirement of trading platforms in Canada. A verified account will have a blue **VERIFIED** box in the top right corner of the dashboard next next to the username. 
 
 Please refer to our instructions on how to create and verify your account [here.](docs/create-account)
  
