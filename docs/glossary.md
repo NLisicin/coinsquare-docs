@@ -14,7 +14,7 @@ nav_order: 15
   <dt>Cryptocurrency</dt>
   <dd>An entirely digital, decentralized currency used and traded online.</dd>
   <dt>Cryptocurrency Exchange</dt>
-  <dd>An online platform that allows users to trade cryptocurrencies for other cryptocurrencies or convential fiat money. </dd>
+  <dd>An online platform that allows users to make trades between crypotucurrencies and/or convential fiat money. </dd>
   <dt>Market Price</dt>
   <dd>The current price at which an asset can be bought or sold.</dd>
 </dl>
