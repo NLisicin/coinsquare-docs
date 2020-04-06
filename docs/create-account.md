@@ -4,7 +4,7 @@ title: Create and Verify an Account
 nav_order: 12
 ---
 
-# Create and Verify Your Account
+# Create and Verify an Account
 
 These instructions will guide you through the process of creating and verifying an account so you can begin using Coinsquare.
 
