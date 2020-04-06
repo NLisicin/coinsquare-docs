@@ -31,7 +31,7 @@ Files must be less than 3.5 MB and can be in JPG, JPEG, PNG, PDF, or GIF format.
 
     a) Choose your username. 
     
-    This will be used to log in to the site. Your username must be between 5 and 15 characters long. If your username is already taken, try again with another.
+    This will be used to sign in to the site. Your username must be between 5 and 15 characters long. If your username is already taken, try again with another.
 
     b) Enter your email address.
     
@@ -53,7 +53,7 @@ Files must be less than 3.5 MB and can be in JPG, JPEG, PNG, PDF, or GIF format.
     
     i) Click **Register** to complete your sign up.
     
-    Your account has now been created and you should received a confirmation email shortly. However, you still need to verify your account before you can trade.
+    Your account has now been created and you should receive a confirmation email shortly. However, you still need to verify your account before you can trade.
 
 3. Verify your account.
 
