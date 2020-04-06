@@ -46,10 +46,10 @@ Everything you need to execute a Quick Trade can be found on the left side of th
 5. Review the information in your quote.
 
     The quote will show you how much of the desired currency you will receive as well as the price you are buying at.
-
+    
+    <img src="https://cdn0.iconfinder.com/data/icons/zondicons/20/exclamation-outline-512.png" alt="Info Icon" width="24px"> Note: Clicking **MAKE THIS TRADE** will finalize the trade and influence your account balance.
+       
 6. Click the blue **MAKE THIS TRADE** button to complete your order.
-
-   <img src="https://cdn0.iconfinder.com/data/icons/zondicons/20/exclamation-outline-512.png" alt="Info Icon" width="24px"> Note: Clicking **MAKE THIS TRADE** will finalize the trade and influence your account balance.
    
 ***
 
