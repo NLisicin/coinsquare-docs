@@ -8,7 +8,13 @@ nav_order: 16
 
 * * *
 
-## Problems with Trading Trading
+## Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+## Problems with Trading
 
 If you are having problems with Quick or Advanced Trade, it may be caused by one or more of the following issues. Here you will find information on how to solve each of these problems.
 
