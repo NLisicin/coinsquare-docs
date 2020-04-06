@@ -54,15 +54,15 @@ If your username is already taken, try again with another.
 
 3. Verify your account.
 
-    <img src="https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/Verification 1.png?raw=true" alt="Verification"  width="500px">
+    <img src="https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/Verification%201.png?raw=true" alt="Verification"  width="500px">
 
     a) In the account drop-down menu in the top right of the screen, click **Verification**.
 
-    ![Get Started](https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/Verification 2.png?raw=true)
+    ![Get Started](https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/Verification%202.png?raw=true)
 
     b) Click **GET STARTED**.
 
-    ![Mobile Verification](https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/Verification 3.png?raw=true)
+    ![Mobile Verification](https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/Verification%203.png?raw=true)
 
     c) Enter your phone number and click **TEXT ME**.
     
@@ -80,4 +80,4 @@ At this point, you have successfully set up your account and it will be pending 
 
 Coinsquare will take up to one business day to verify your credentials, after which a blue **VERIFIED** panel will appear next to your username in the top menu bar. Once verified, you can begin trading cryptocurrency!
 
-![Verified](https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/Verification 4.png?raw=true)
+![Verified](https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/Verification%204.png?raw=true)
