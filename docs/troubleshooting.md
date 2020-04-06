@@ -19,7 +19,7 @@ nav_order: 16
 
 ## Problems with Verification
 
-A verified account is the key to accessing all of Coinsquare's functionality. These are some potential issues you may encounter with account verification and how to handle them.
+A verified account is the key to accessing all of Coinsquare's functionality. Here you will find more information about account verification and potential issues you may encounter.
 
 ### Failed Verification
 
@@ -31,7 +31,7 @@ Verification is a legal requirement of trading platforms in Canada, so take care
 
 For more information, please click [here.](https://help.coinsquare.com/hc/en-us/articles/360020867932-Why-Did-I-Fail-Verification-)
 
-### Unaccepted ID
+### Accepted ID
 
 There are numerous forms of identification which can be used for verification. A driver's license, passport, health card, or even a Canadian federal firearms license can be used.
 
