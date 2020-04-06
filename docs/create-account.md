@@ -8,7 +8,7 @@ nav_order: 12
 
 These instructions will guide you through the process of creating and verifying an account so you can begin using Coinsquare.
 
-Verifying your account is necessary to confirm your identity and prevent illegal trading.
+Verifying your account is necessary before you can buy or sell currency. It is used to confirm your identity and prevent illegal trading.
 
 * * *
 
@@ -21,48 +21,56 @@ Files must be less than 3.5 MB and can be in JPG, JPEG, PNG, PDF, or GIF format.
 
 * * *
 
-1. To begin, click one of the blue **Get Started** buttons on the homepage.
+![Get Started](https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/Create1.PNG?raw=true)
+
+1. Click one of the blue **Get Started** buttons on the homepage to begin.
 
 2. Set up your account.
+
+    ![Get Started](https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/Create2.PNG?raw=true)
 
     a) Choose your username. This will be used to log in to the site. Your username must be between 5 and 15 characters long.
 If your username is already taken, try again with another.
 
     b) Enter your email address.
     
-    c) Choose a secure password. It can be between 9 and 64 characters long. 
-    Don’t use a password which you’ve used for another website or account. Try to make the most secure password which you can also remember.
+    c) Choose a secure password. It can be between 9 and 64 characters long.
     
-    d) Re-enter the password to confirm.
+    d) Re-enter your password to confirm.
 
-    e) OPTIONAL: If you have a referral code from a friend, enter it here.
+    e) (Optional) Enter a referral code from a friend.
     
     f) Select your country of residence from the drop-down menu.
 
-    g) Read the Terms and Conditions and Privacy Policy. Click the box to check off your consent.
+    g) Read the Terms and Conditions and Privacy Policy. Click the box to confirm your consent.
 
-    h) Click the reCAPTCHA box that says **I’m not a robot**. This is to confirm your humanity.
+    h) Click the reCAPTCHA box that says **I’m not a robot**.
 
-    i) Once everything is done, the **Register** button at the bottom will change from grey to blue. Click on it to complete your sign up.
+    Once everything is done, the **Register** button at the bottom will change from grey to blue.
+    
+    i) Click **Register** to complete your sign up.
+    
+    Your account has now been created and you should received a confirmation email shortly. However, you still need to verify your account before you can trade.
 
 3. Verify your account.
 
     <img src="https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/Verification 1.png?raw=true" alt="Verification"  width="500px">
 
-    a) In the account dropdown menu in the top right of the screen, click **Verification**.
+    a) In the account drop-down menu in the top right of the screen, click **Verification**.
 
     ![Get Started](https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/Verification 2.png?raw=true)
 
-    b) Click **Get Started**.
+    b) Click **GET STARTED**.
 
     ![Mobile Verification](https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/Verification 3.png?raw=true)
 
-    c) Enter your mobile number and click **Text Me**.
+    c) Enter your phone number and click **TEXT ME**.
+    
     A verification code will be sent to the number you entered.
 
-    d) Enter your verification code in the text box at the bottom of the screen then click **Save & Continue**.
+    d) Enter your verification code in the text box at the bottom of the screen then click **SAVE & CONTINUE**.
 
-    e) Enter your personal information in the **All About You** page then click **Save & Continue**. Ensure that all required fields, marked with a red asterisk (*), are filled.
+    e) Enter your personal information in the **All About You** page then click **SAVE & CONTINUE**. Ensure that all required fields, marked with a red asterisk (*), are filled.
 
     f) Upload images of your government-issued photo ID and proof of address then click **Close**.
 
@@ -70,6 +78,6 @@ If your username is already taken, try again with another.
 
 At this point, you have successfully set up your account and it will be pending verification.
 
-Coinsquare will take up to one business day to verify your credentials, after which a blue **VERIFIED** panel will appear next to your username in the top menu bar. Once verified, you can begin trading cryptocurrency.
+Coinsquare will take up to one business day to verify your credentials, after which a blue **VERIFIED** panel will appear next to your username in the top menu bar. Once verified, you can begin trading cryptocurrency!
 
 ![Verified](https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/Verification 4.png?raw=true)
