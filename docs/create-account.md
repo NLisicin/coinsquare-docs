@@ -30,11 +30,13 @@ Files must be less than 3.5 MB and can be in JPG, JPEG, PNG, PDF, or GIF format.
     ![Get Started](https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/Create2.PNG?raw=true)
 
     a) Choose your username. 
+    
     This will be used to log in to the site. Your username must be between 5 and 15 characters long. If your username is already taken, try again with another.
 
     b) Enter your email address.
     
     c) Choose a secure password. 
+    
     Your password can be between 9 and 64 characters long.
     
     d) Re-enter your password to confirm.
@@ -46,6 +48,7 @@ Files must be less than 3.5 MB and can be in JPG, JPEG, PNG, PDF, or GIF format.
     g) Read the Terms and Conditions and Privacy Policy. Click the box to confirm your consent.
 
     h) Click the reCAPTCHA box that says **I’m not a robot**.
+    
     Once everything is done, the **Register** button at the bottom will change from grey to blue.
     
     i) Click **Register** to complete your sign up.
