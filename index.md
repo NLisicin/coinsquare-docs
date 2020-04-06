@@ -9,7 +9,7 @@ permalink: /
 # Introduction
 {: .no_toc }
 
-Coinsquare is an online platform for buying and selling cryptocurrency. It allows users to track recent market changes, buy and sell a multitude of digital currencies, and plan future trades to execute automatically.
+Coinsquare is an online platform for buying and selling cryptocurrency. It allows users to track recent market changes, buy and sell a multitude of digital currencies, and plan future trades that execute automatically.
 
 These instructions will guide you through the process of [creating and verifying an account](docs/create-account), [executing a quick trade](docs/quick-trade), and [setting up an advanced trade](docs/advanced-trade). They will take you through the technical steps, but are not intended to give advice or suggestions on how to manage your money.
 
@@ -33,7 +33,7 @@ These instructions are designed for users who are familiar with and may have bou
 
 | Convention | Indicates |
 |:-----------|:----------|
-| <img src="https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/note.png?raw=true" alt="Info Icon" width="24px"> Note: | Important information for the current step or set of instructions. |
-| **Bold Typeface** | A website element to refer to on your screen, such as a button or a field. |
-| Red Boxes or Arrows on Images | Area of the screen to refer to on the current instruction. |
-| Red Text on Images | Area of the screen to refer to on the given step number. |
+| <img src="https://github.com/NLisicin/coinsquare-docs/blob/gh-pages/assets/images/note.png?raw=true" alt="Info Icon" width="24px"> Note: | Important information for the current step or set of instructions |
+| **Bold Typeface** | A website element to refer to on your screen, such as a button or a field |
+| Red Boxes or Arrows on Images | Area of the screen to refer to on the current instruction |
+| Red Text on Images | Area of the screen to refer to on the given step number |
