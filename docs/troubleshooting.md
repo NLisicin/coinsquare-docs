@@ -57,6 +57,3 @@ Verification is a legal requirement of trading platforms in Canada, so be sure t
 There are numerous forms of identification which can be used for verification. A driver's license, passport, health card, or even a Canadian Federal firearms license can be used.
 
 For a full list of acceptable documentation, please click [here.](https://help.coinsquare.com/hc/en-us/articles/360021119211-Acceptable-Government-ID-Documents)
-
-***
-* * *
