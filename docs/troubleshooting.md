@@ -31,9 +31,9 @@ Verification is a legal requirement of trading platforms in Canada, so take care
 
 For more information, please click [here.](https://help.coinsquare.com/hc/en-us/articles/360020867932-Why-Did-I-Fail-Verification-)
 
-### Accepted ID
+### Unaccepted ID
 
-There are numerous forms of identification which can be used for verification. A driver's license, passport, health card, or even a Canadian Federal firearms license can be used.
+There are numerous forms of identification which can be used for verification. A driver's license, passport, health card, or even a Canadian federal firearms license can be used.
 
 For a full list of acceptable documentation, please click [here.](https://help.coinsquare.com/hc/en-us/articles/360021119211-Acceptable-Government-ID-Documents)
 
